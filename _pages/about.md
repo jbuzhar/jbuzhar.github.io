@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 ---
 
 My name is Jake Buzhardt and I am a PhD student in the [Mechanical Engineering Department](http://www.clemson.edu/cecas/departments/me/) at [Clemson University](https://www.clemson.edu/).  
