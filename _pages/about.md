@@ -1,11 +1,6 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
 ---
 
 My name is Jake Buzhardt and I am a PhD student in the [Mechanical Engineering Department](http://www.clemson.edu/cecas/departments/me/) at [Clemson University](https://www.clemson.edu/).  
