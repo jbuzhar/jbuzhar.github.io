@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 My name is Jake Buzhardt and I am a PhD student in the [Mechanical Engineering Department](http://www.clemson.edu/cecas/departments/me/) at [Clemson University](https://www.clemson.edu/).  
 
 I am advised by [Phanindra Tallapragada](http://www.clemson.edu/cecas/departments/me/people/faculty/tallapragada.html) in the [Applied Dynamical Systems Lab](http://ptallap.people.clemson.edu/).
