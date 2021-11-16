@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my <a href="{{https://scholar.google.com/citations?user=RBtE4JwAAAAJ&hl=en}}">Google Scholar Profile</a>.
+You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=RBtE4JwAAAAJ&hl=en).
 
 ## Journal Publications
 0. **Magnetically actuated artificial microswimmers as mobile microparticle manipulators.** \
