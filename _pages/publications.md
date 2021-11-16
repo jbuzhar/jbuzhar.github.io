@@ -39,7 +39,7 @@ You can also find my publications on my [Google Scholar Profile](https://scholar
 <!-- # -->
 0. **Controllability of a pair of swimming microrotors in a bounded domain at low Reynolds number** \
    J. Buzhardt, V. Fedonyuk, S. Sudarsanam, P. Tallapragada. \
-   _2018 Dynamic Systems and Control Conference (DSCC)_ ASME. September 2018. [Paper Link](https://doi.org/10.1115/DSCC2018-9013) | [Preprint](/files/bfst_dscc2018.pdf)
+   _2018 Dynamic Systems and Control Conference (DSCC)_ ASME. September 2018. [Paper Link](https://doi.org/10.1115/DSCC2018-9013) | [Preprint](/files/bfst_dscc_2018.pdf)
 <!-- # -->
 
 
