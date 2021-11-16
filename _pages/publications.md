@@ -10,15 +10,17 @@ You can also find my publications on my [Google Scholar Profile](https://scholar
 ## Journal Publications
 0. **Magnetically actuated artificial microswimmers as mobile microparticle manipulators.** \
    J. Buzhardt,  P. Tallapragada. \
-   _ASME Letters in Dynamic Systems and Control,_ 1:1, January 2021. [Journal Link](https://doi.org/10.1115/1.4046581) [Arxiv](https://arxiv.org/abs/1909.05646) [Reprint](/files/bt_dscl_2021.pdf)
+   _ASME Letters in Dynamic Systems and Control,_ 1:1, January 2021. [Journal Link](https://doi.org/10.1115/1.4046581) | [Arxiv](https://arxiv.org/abs/1909.05646) | [Reprint](/files/bt_dscl_2021.pdf)<br />
+   <span><font size="3"> &nbsp; (Finalist for best student paper at the 2019 ASME DSCC)  </font></span>
 <!-- # -->
 0. **Dynamics of groups of magnetically driven artificial microswimmers,** \
     J. Buzhardt, P. Tallapragada. \
-    _Physical Review E_ 100, 033106 September 2019. [Journal Link](https://www.doi.org/10.1103/PhysRevE.100.033106) [Arxiv](https://arxiv.org/abs/1906.12049) [Reprint](/files/bt_pre2019.pdf)
+    _Physical Review E_ 100, 033106 September 2019. [Journal Link](https://www.doi.org/10.1103/PhysRevE.100.033106) | [Arxiv](https://arxiv.org/abs/1906.12049) | [Reprint](/files/bt_pre2019.pdf) <br />
+   <span><font size="3"> &nbsp; (Featured in <a href="https://journals.aps.org/pre/kaleidoscope/September2019">PRE Kaleidoscope</a> and APS calendar for 2020.)  </font></span>
 <!-- # -->
 0. **Pairwise controllability and motion primitives for micro-rotors in a bounded Stokes flow** \
    J. Buzhardt, V. Fedonyuk, P. Tallapragada. \
-   _International Journal of Intelligent Robotics and Applications_ 2:4, 454-461. November 2018. [Journal Link](https://doi.org/10.1007/s41315-018-0075-5) [Preprint](/files/ijira_bft_2018_v2.pdf)
+   _International Journal of Intelligent Robotics and Applications_ 2:4, 454-461. November 2018. [Journal Link](https://doi.org/10.1007/s41315-018-0075-5) | [Preprint](/files/ijira_bft_2018_v2.pdf)
 <!-- # -->
 
 ## Conference Publications
@@ -29,15 +31,15 @@ You can also find my publications on my [Google Scholar Profile](https://scholar
 <!-- # -->
 0. **Optimal trajectory tracking for a magnetically driven microswimmer** \
    J. Buzhardt, P. Tallapragada. \
-   _2020 American Control Conference (ACC)_ 3211-3216, IEEE. November 2018. [Paper Link](https://doi.org/10.23919/ACC45564.2020.91479733) [Preprint](/files/bt_acc2020.pdf)
+   _2020 American Control Conference (ACC)_ 3211-3216, IEEE. July 2020. [Paper Link](https://doi.org/10.23919/ACC45564.2020.9147973) | [Preprint](/files/bt_acc2020.pdf)
 <!-- # -->
 0. **A Passive Jumping Mechanism** \
    P. Tallapragada, J. Buzhardt, R. Seney. \
-   _2019 Dynamic Systems and Control Conference (DSCC)_ ASME. October 2019. [Paper Link](https://doi.org/10.1115/DSCC2019-9194) [Preprint](/files/tbs_dscc2019.pdf)
+   _2019 Dynamic Systems and Control Conference (DSCC)_ ASME. October 2019. [Paper Link](https://doi.org/10.1115/DSCC2019-9194) | [Preprint](/files/tbs_dscc2019.pdf)
 <!-- # -->
 0. **Controllability of a pair of swimming microrotors in a bounded domain at low Reynolds number** \
    J. Buzhardt, V. Fedonyuk, S. Sudarsanam, P. Tallapragada. \
-   _2018 Dynamic Systems and Control Conference (DSCC)_ ASME. September 2018. [Paper Link](https://doi.org/10.1115/DSCC2018-9013) [Preprint](/files/bfst_dscc2018.pdf)
+   _2018 Dynamic Systems and Control Conference (DSCC)_ ASME. September 2018. [Paper Link](https://doi.org/10.1115/DSCC2018-9013) | [Preprint](/files/bfst_dscc2018.pdf)
 <!-- # -->
 
 
