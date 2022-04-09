@@ -26,7 +26,7 @@ You can also find my publications on my [Google Scholar Profile](https://scholar
 ## Conference Publications
 0. **Terrain parameter estimation from proprioceptive sensing of the suspension dynamics in offroad vehicles** \
    J. Buzhardt, P. Tallapragada. \
-   Submitted to _2022 American Control Conference (ACC)_ IEEE. 
+   Accepted for publication in _2022 American Control Conference (ACC)_ IEEE. [Arxiv](https://arxiv.org/abs/2202.04727) | [Preprint](/files/bt_estimation_acc2022.pdf)
 <!-- [Paper Link]() [Preprint]() -->
 <!-- # -->
 0. **Optimal trajectory tracking for a magnetically driven microswimmer** \

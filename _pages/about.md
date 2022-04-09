@@ -8,4 +8,4 @@ I am advised by [Phanindra Tallapragada](http://www.clemson.edu/cecas/department
 
 My primary research interests are modeling and control of nonlinear dynamical systems.  Particular applications that I have studied include the control of offroad vehicles and the control of groups of interacting microswimming robots.
 
-The best way to reach me is by email:  jbuzhar[at]clemson.edu
+The best way to reach me is by email:  jbuzhar`[at]`g.clemson.edu
