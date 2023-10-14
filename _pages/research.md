@@ -47,7 +47,7 @@ This hopping behaviour is due to a lifting effect on the hoop created by the lar
 <source src="/files/vertonly.mp4" type="video/mp4">
 </video>
 
-Additionally, the robot can clear large horizontal distances while in air by achieving a high horizontal velocity before initiating a jump.  As shown in the video below, the robot clears over 6 body lengths in air and is able to achieve multiple jumps with minimal recovery time.  
+Additionally, the robot can clear large horizontal distances while in air by achieving a high rolling velocity before initiating a jump.  As shown in the video below, the robot clears over 6 body lengths in air and is able to achieve multiple jumps with minimal recovery time.  
 <video controls muted loop width="600" >
 <source src="/files/horonly.mp4" type="video/mp4">
 </video>
