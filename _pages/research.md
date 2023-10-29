@@ -61,8 +61,42 @@ For more details, see the following papers:
 >P. Tallapragada, J. Buzhardt, R. Seney. \
 > 2019 Dynamic Systems and Control Conference (DSCC) ASME. October 2019. [Paper Link](https://doi.org/10.1115/DSCC2019-9194) | [Preprint](/files/tbs_dscc2019.pdf)
 
+<br/>
+
 ## Low Reynolds number swimming
-coming soon
+Motion at zero Reynolds number is governed by the Stokes equations, where viscous effects are dominant relative to inertial effects.  The linearity and time-independence of the Stokes equations also lead to a kinematic reversibility known as the Scallop theorem, which states that reciprocal motions of a body will not produce a net translation in a Stokes flow.  This statement, gets its name from the idea that a scallop would not be able to swim in a low Reynolds number setting since it possesses only a single degree of freedom and is thus only capable of such reciprocal motions.  This eliminates many aquatic locomotion strategies which are common at larger scales, such as periodic flapping or undulating.  This also helps to explain the effectiveness of simple, continuous rotation for locomotion, as this does not suffer from the reciprocity described in the scallop theorem. 
+
+We study the motion of simple achiral swimmers composed of three rigidly connected spheres in a 90 degree bend, pictured below.  This is one of the simplest geometries which can exhibit a net translation due to an applied torque, and thus can be driven by a torque induced through a periodically rotating magnetic field.  
+<div style="display: flex; align-items: center;">
+<img src="/files/Microswimmers3Sphere.png" alt="Rotor controls" width="800">
+</div>
+We develop a simulation strategy based on the Stokesian dynamics algorithm, which allows us to study the single swimmer motion, interacting groups of these swimmers, and the corresponding fluid velocity fields.  The fluid velocity field produced by a single swimmer is shown below, when subjected to a periodically rotating magnetic field. 
+<div style="display: flex; align-items: center;">
+<img src="/files/swimmer_velocityfields.PNG" alt="Rotor controls" width="800">
+</div>
+When two swimmers are present, hydrodynamic interactions due to this rotational velocity field leads to the swimmers taking helical trajectories as they spiral about one another, as shown in the animations below. 
+<div style="display: flex; align-items: center;">
+  <video controls muted loop width="400">
+    <source src="/files/Movie_2Swim2023_3d.mp4" type="video/mp4" >
+  </video> 
+    <video controls muted loop width="400">
+    <source src="/files/Movie_2Swim2023_xz.mp4" type="video/mp4">
+  </video> 
+</div>
+The same is true when a larger group of swimmers is present.  The simulations below show the trajectories of a group of 16 interacting swimmers.  
+<div style="display: flex; align-items: center;">
+  <video controls muted loop width="900">
+    <source src="/files/Movie_16Swim2023_slow.mp4" type="video/mp4" >
+  </video> 
+</div>
+
+Additionally, these hydrodynamic interactions can be utilized to contactlessly manipulate a passive particle to drive it in a desired direction.  This is demonstrated in the animation below.  This control is achieved by switching the orientation and frequency of the applied magnetic field to alternatingly drive the swimmer and the particle.  
+<div style="display: flex; align-items: center;">
+  <video controls muted loop width="400">
+    <source src="/files/swimmerparticle_controlmovie.mp4" type="video/mp4" >
+  </video> 
+  <img src="/files/switching_particlecontrol.PNG" alt="Rotor controls" width="600">
+</div>
 
 ## Offroad vehicle navigation
 coming soon
