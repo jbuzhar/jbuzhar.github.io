@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Controlled density transport
+ <hr style="width:96%;border:solid 1px black;color:#FFFF00;height:1px"> 
+# Controlled density transport
 The problem of controlling distributions of states has many applications, including uncertainty propagation and quantification, stochastic control and motion planning under uncertainty, controlled fluid transport, and control of distributed multiagent systems. In such problems, the distribution of states is modelled as a probability density function.  The animations below illustrate this idea on a Duffing system.  The left figure shows the time evolution of a single state in state space; the right figure shows the evolution of an ensemble of states, which are modelled as a probability density function. 
 
 <video id="myBGvid" autoplay muted loop width="400" >
@@ -31,8 +31,10 @@ For more details, see the following paper:
 >J. Buzhardt, P. Tallapragada. \
 >IEEE Conference on Decision and Control, 2023. [Preprint](/files/cdc2023_bt.pdf) 
 
+<br/>
+ <hr style="width:96%;border:solid 1px black;color:#FFFF00;height:1px"> 
 
-## Rolling, Jumping Robot
+# Rolling, Jumping Robot
 Littlewood's hopping hoop is a classic dynamics example, which consists of a lightweight hoop with a heavy eccentric mass.  This simple mechanism is known to exhibit a hopping behavior when rolled fast on flat ground or from rest on an incline, as shown in the video below. 
 <div style="display: flex; align-items: center;">
   <video controls muted loop width="300">
@@ -62,8 +64,9 @@ For more details, see the following papers:
 > 2019 Dynamic Systems and Control Conference (DSCC) ASME. October 2019. [Paper Link](https://doi.org/10.1115/DSCC2019-9194) | [Preprint](/files/tbs_dscc2019.pdf)
 
 <br/>
+ <hr style="width:96%;border:solid 1px black;color:#FFFF00;height:1px"> 
 
-## Low Reynolds number swimming
+# Low Reynolds number swimming
 Motion at zero Reynolds number is governed by the Stokes equations, where viscous effects are dominant relative to inertial effects.  The linearity and time-independence of the Stokes equations also lead to a kinematic reversibility known as the Scallop theorem, which states that reciprocal motions of a body will not produce a net translation in a Stokes flow.  This statement, gets its name from the idea that a scallop would not be able to swim in a low Reynolds number setting since it possesses only a single degree of freedom and is thus only capable of such reciprocal motions.  This eliminates many aquatic locomotion strategies which are common at larger scales, such as periodic flapping or undulating.  This also helps to explain the effectiveness of simple, continuous rotation for locomotion, as this does not suffer from the reciprocity described in the scallop theorem. 
 
 We study the motion of simple achiral swimmers composed of three rigidly connected spheres in a 90 degree bend, pictured below.  This is one of the simplest geometries which can exhibit a net translation due to an applied torque, and thus can be driven by a torque induced through a periodically rotating magnetic field.  
@@ -97,6 +100,17 @@ Additionally, these hydrodynamic interactions can be utilized to contactlessly m
   </video> 
   <img src="/files/switching_particlecontrol.PNG" alt="Rotor controls" width="600">
 </div>
+
+For more details, see the following papers:  
+>Dynamics of groups of magnetically driven artificial microswimmers\
+>J. Buzhardt, P. Tallapragada. \
+>_Physical Review E_ 100, 033106 September 2019. [Journal Link](https://www.doi.org/10.1103/PhysRevE.100.033106) 
+
+>Magnetically actuated artificial microswimmers as mobile microparticle manipulatorss\
+>J. Buzhardt, P. Tallapragada. \
+>_ASME Letters in Dynamic Systems and Control,_ 1:1, January 2021. [Journal Link](https://doi.org/10.1115/1.4046581)
+
+
 
 ## Offroad vehicle navigation
 coming soon
