@@ -5,14 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=RBtE4JwAAAAJ&hl=en).
-0. **Controlled density transport by microrotors in a Stokes flow using linear transfer operators** \
+You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=R4MrBr4AAAAJ).
+
+0. **On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions** \
+   J. Buzhardt, C.R. Constante-Amores, M.D. Graham. \
+  Submitted November 2024.  In Review. [arXiv Link](https://arxiv.org/abs/2411.12940) 
+
+0. **Controlled fluid transport by the collective motion of microrotors** \
    J. Buzhardt, P. Tallapragada. \
-  Submitted, October 2023. [Arxiv Link](https://arxiv.org/abs/2310.17832) 
+  Submitted September 2024.  In Review. [arXiv Link](https://arxiv.org/abs/2409.04468) 
+
+0. **Controlled transport of fluid particles by microrotors in a Stokes flow using linear transfer operators** \
+   J. Buzhardt, P. Tallapragada. \
+  _Physics of Fluids_. Mar 2024. 36, 032021 [Paper Link](https://doi.org/10.1063/5.0195528) | [arXiv Link](https://arxiv.org/abs/2310.17832) 
   <!-- # -->
 0. **Controlled density transport using Perron Frobenius generators** \
     J. Buzhardt, P. Tallapragada. \
-  Accepted to IEEE Conference on Decision and Control, 2023. [Arxiv Link](https://arxiv.org/abs/2304.13829) 
+  _IEEE Conference on Decision and Control, 2023._ Singapore. [Paper Link](https://doi.org/10.1109/CDC49753.2023.10383941) | [arXiv Link](https://arxiv.org/abs/2304.13829) 
   <!-- # -->
 0. **Koopman operator based predictive control with a data archive of observables** \
    K. Loya, J. Buzhardt, P. Tallapragada. \
