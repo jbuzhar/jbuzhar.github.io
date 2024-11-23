@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Jake Buzhardt"
   avatar           : "jbuzhar.jpg"
-  bio              : "Graduate student in Mechanical Engineering at Clemson University"
-  location         : "Clemson, SC, USA"
+  bio              : "Postdoctoral Researcher at University of Wisconsin-Madison"
+  location         : "Madison, WI, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RBtE4JwAAAAJ&hl=en"
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jakebuzhardt"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
