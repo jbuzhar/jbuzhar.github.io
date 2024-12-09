@@ -9,5 +9,6 @@ I completed my PhD in Mechanical Engineering in 2023 at Clemson University, wher
 Broadly, my research interests are the modeling and control of nonlinear dynamical systems.  My current work is focused on data-driven methods for reduced order modeling in fluid dynamics applications.   In my PhD work, particular applications that I studied include the control of offroad vehicles and the control of groups of interacting microswimming robots.  Within these contexts, I have studied problems of parameter estimation, trajectory optimization, deep reinforcement learning, among others.  I am also particularly interested in data-driven modeling and control strategies based on finite dimensional approximations of the Koopman and Perron-Frobenius operators.   
 
 The best way to reach me is by email:
-jbuzhar`[at]`gmail.com 
-buzhardt`[at]`wisc.edu
+
+- jbuzhar`[at]`gmail.com 
+- buzhardt`[at]`wisc.edu
