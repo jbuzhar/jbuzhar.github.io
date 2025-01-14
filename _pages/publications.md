@@ -13,7 +13,7 @@ You can also find my publications on my [Google Scholar Profile](https://scholar
 
 0. **Controlled fluid transport by the collective motion of microrotors** \
    J. Buzhardt, P. Tallapragada. \
-  Submitted September 2024.  In Review. [arXiv Link](https://arxiv.org/abs/2409.04468) 
+  Accepted to _Physica D_. [arXiv Link](https://arxiv.org/abs/2409.04468) 
 
 0. **Controlled transport of fluid particles by microrotors in a Stokes flow using linear transfer operators** \
    J. Buzhardt, P. Tallapragada. \
